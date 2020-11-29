@@ -1,4 +1,4 @@
-package com.somita.microservice.limitsservice;
+package com.somita.microservice.limitsservice.bean;
 
 public class LimitConfiguration {
     private int maximum;
