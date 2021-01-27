@@ -16,3 +16,4 @@ public class LimitsConfigurationController {
         return new LimitConfiguration(configuration.getMaximum(), configuration.getMinimum());
     }
 }
+
