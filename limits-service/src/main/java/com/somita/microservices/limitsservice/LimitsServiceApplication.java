@@ -1,4 +1,4 @@
-package com.somita.microservice.limitsservice;
+package com.somita.microservices.limitsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

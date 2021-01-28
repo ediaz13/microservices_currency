@@ -1,6 +1,6 @@
-package com.somita.microservice.limitsservice;
+package com.somita.microservices.limitsservice;
 
-import com.somita.microservice.limitsservice.bean.LimitConfiguration;
+import com.somita.microservices.limitsservice.bean.LimitConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
