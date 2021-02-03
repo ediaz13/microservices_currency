@@ -15,7 +15,7 @@ import java.util.Map;
 public class CurrencyConversionController {
 
     @Autowired
-    private CurrencyExchangeServiceProxy proxy;
+    private geServiceProxy proxy;
 
     @GetMapping("/currency-converter/from/{from}/to/{to}/quantity/{quantity}")
     public CurrencyConversionBean convertCurrency(@PathVariable String from,
